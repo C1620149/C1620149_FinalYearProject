@@ -1,0 +1,5 @@
+This repository contains all materials, raw data and code for analyses and graphs for C1620149's Final Year Project. 
+
+Before using any of the other scripts, run the "Load Data.R" file to load the dataset in and install all necessary packages. 
+
+All code for figures can be found in "Figures", all analyses in "Analyses", and materials in "Materials".
